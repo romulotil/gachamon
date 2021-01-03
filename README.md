@@ -1,2 +1,2 @@
-# gachamon
-Gachamon project
+# Gachamon Project
+Monster collect and fights(?)
